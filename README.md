@@ -11,10 +11,11 @@
 ---
 
 ### 🌐 Connect with me  
-<a href="www.linkedin.com/in/teegala-saketh-4063b3291" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-</a>  
-
-<a href="[https://www.instagram.com/teegala_saketh](https://www.instagram.com/saketh_ram_teegala_14)" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30" height="30" style="color:#E4405F"/>
-</a>
+<p align="left">
+  <a href="www.linkedin.com/in/teegala-saketh-4063b3291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/saketh_ram_teegala_14" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
