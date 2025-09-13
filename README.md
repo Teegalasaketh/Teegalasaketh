@@ -16,7 +16,6 @@
   <a href="https://www.linkedin.com/in/teegala-saketh-4063b3291" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/saketh_ram_teegala_14" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" width="30" alt="Instagram" />
   </a>
