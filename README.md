@@ -11,5 +11,5 @@
 ---
 
 ### 🌐 Connect with me  
-- [LinkedIn](https://www.linkedin.com/in/teegalasaketh)  
-- [Instagram](https://www.instagram.com/teegala_saketh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/teegala-saketh-4063b3291)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/teegala_saketh](https://www.instagram.com/saketh_ram_teegala_14)  
