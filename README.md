@@ -13,9 +13,9 @@
 ### 🌐 Connect with me  
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <p align="left">
-  <a href="https://www.linkedin.com/in/teegala-saketh-4063b3291" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" width="30" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/teegala-saketh-4063b3291" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/saketh_ram_teegala_14" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" width="30" alt="Instagram" />
