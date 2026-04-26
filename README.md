@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Teegala Saketh
 
-### 🚀 Aspiring Software Engineer | Java Full Stack Developer | Exploring GenAI
+### 🚀 Aspiring Software Engineer | Java Full Stack Developer
 
 </div>
 
@@ -10,7 +10,7 @@
 * 💻 I’ve built a **basic website using HTML, CSS, and JavaScript**
 * 🤝 I’ve done some **collaborative projects using Full Stack**
 * 👯 Open to collaborating on **real-world projects**
-* 📫 Reach me at: **sakethram1405@gmail.com**
+* 📫 Reach me at: **sakethteegala@gmail.com**
 
 ---
 
